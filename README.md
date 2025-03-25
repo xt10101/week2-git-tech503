@@ -30,7 +30,7 @@ git add <. / name of the folder/file>
 >adds itemt to staging folder.
 
 ```git
-git push -u origin main  
+git push -u origin <branch-name>  
 ```
 >Uploads committed items to a remote repo.\
 >Origin represents the name of the remote repo.\
@@ -103,7 +103,7 @@ ls -a show hidden folders
 
 
 #git branch -M main -M move
-#git push -u origin main  
+
 
 
 
