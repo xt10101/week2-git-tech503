@@ -162,3 +162,26 @@ The tilde (~) is a Linux "shortcut" to denote a user's home directory
 
 
 
+
+**What is a shell?**
+
+Operating system
+Controls the hardware
+
+
+Daemon - Background system processes doing a small Job
+
+Shell - running commmands , running the manipulation of the device
+interpeter 
+
+Bourne again shell - BASH
+
+SSH
+
+works using key pairs
+
+Private Key - the key
+
+Public Key - the padlock
+
+public key can be sent over the internet
